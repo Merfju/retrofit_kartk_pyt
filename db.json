@@ -4,25 +4,25 @@
             "nazwaRzeczy": "projekt z AM",
             "priorytet": 0,
             "data": "04-05-2024",
-            "zrealizowane": 0
+            "zrealizowane": false
         },
         {
             "nazwaRzeczy": "projekt z AD",
             "priorytet": 0,
             "data": "05-05-2024",
-            "zrealizowane": 0
+            "zrealizowane": false
         },
         {
             "nazwaRzeczy": "wyspac się",
             "priorytet": 2,
             "data": "04-05-2024",
-            "zrealizowane": 1
+            "zrealizowane": true
         },
         {
             "nazwaRzeczy": "zdac prawko",
             "priorytet": 2,
             "data": "09-05-2024",
-            "zrealizowane": 0
+            "zrealizowane": true
         }
     ]
 }
